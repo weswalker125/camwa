@@ -1,0 +1,17 @@
+{
+  "name": "camwa",
+  "version": "1.0.0",
+  "description": "Playing around with ip-cam access.",
+  "main": "camwa.js",
+  "dependencies": {
+    "command-line-args": "^3.0.4",
+    "foscam": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wlw",
+  "license": "ISC"
+}
